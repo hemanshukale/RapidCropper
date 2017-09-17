@@ -5,7 +5,7 @@ Hello all,
 
 This is a code for rapidly making positive and negative samples of any fixed aspect ratio with arbitrary multiplier mainly for creating samples for image processing cascade training. Just move the selection rectangle by mouse or arrow keys and by simple left/right click, the selection rectangle gets stored as image in the corresponding pos / neg folder respectively.  
 
-The code is written in Processing, and I also have attached executables for use in both, Ubuntu and Windows.  
+The code is written in **Processing**, and I also have attached executables for use in both, Ubuntu and Windows.  
 
 What this does:  
 
